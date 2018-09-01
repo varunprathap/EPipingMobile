@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPipingMobile", "EPipingMobile\EPipingMobile.csproj", "{FC4F55EB-A1B4-40FA-81DD-06F37E8CC6CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPMobileLibrary", "EPMobileLibrary\EPMobileLibrary.csproj", "{5857798D-5B51-40D4-99F3-C7ECA3E7377A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{FC4F55EB-A1B4-40FA-81DD-06F37E8CC6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC4F55EB-A1B4-40FA-81DD-06F37E8CC6CC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FC4F55EB-A1B4-40FA-81DD-06F37E8CC6CC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5857798D-5B51-40D4-99F3-C7ECA3E7377A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5857798D-5B51-40D4-99F3-C7ECA3E7377A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5857798D-5B51-40D4-99F3-C7ECA3E7377A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5857798D-5B51-40D4-99F3-C7ECA3E7377A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
